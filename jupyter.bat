@@ -1,0 +1,1 @@
+%localappdata%\ESRI\conda\envs\bg_optimi\scripts\jupyter-notebook.exe --notebook-dir=%cd%
