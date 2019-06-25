@@ -49,6 +49,7 @@ https://conda.anaconda.org/conda-forge/win-64/heapdict-1.0.0-py36_1000.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/icc_rt-2019.0.0-h0cc432a_1.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/icu-58.2-ha66f8fd_1.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/idna-2.8-py36_0.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/imageio-2.5.0-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/imagesize-1.1.0-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/ipykernel-5.1.0-py36h39e3cac_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/ipython-7.5.0-py36h39e3cac_0.tar.bz2
@@ -86,6 +87,7 @@ https://conda.anaconda.org/conda-forge/noarch/locket-0.2.0-py_2.tar.bz2
 https://repo.anaconda.com/pkgs/main/noarch/mapclassify-2.0.1-py_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/markupsafe-1.1.1-py36he774522_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/matplotlib-3.0.3-py36hc8f65d3_0.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/matplotlib-base-3.1.0-py36h3e3dc42_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/mccabe-0.6.1-py36_1.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/mistune-0.8.4-py36he774522_0.tar.bz2
 https://repo.continuum.io/pkgs/free/win-64/mkl-2017.0.3-0.tar.bz2
@@ -93,9 +95,11 @@ https://conda.anaconda.org/conda-forge/win-64/msgpack-python-0.6.1-py36he980bc4_
 https://repo.continuum.io/pkgs/main/win-64/munch-2.3.2-py36_0.tar.bz2
 https://conda.anaconda.org/esri/win-64/nbconvert-5.4.1-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/nbformat-4.4.0-py36h3a5bc1b_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/networkx-2.3-py_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/notebook-5.7.8-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/numpy-1.13.3-py36hb69e940_3.tar.bz2
 https://repo.anaconda.com/pkgs/main/noarch/numpydoc-0.9.1-py_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/olefile-0.46-py_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/openssl-1.1.1b-he774522_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/packaging-19.0-py_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/pandas-0.24.2-py36ha925a31_0.tar.bz2
@@ -104,6 +108,7 @@ https://repo.anaconda.com/pkgs/main/noarch/parso-0.4.0-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/partd-0.3.9-py_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/pcre-8.43-ha925a31_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/pickleshare-0.7.5-py36_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/win-64/pillow-6.0.0-py36hdc69c19_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/pip-19.1.1-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/proj4-5.2.0-ha925a31_1.tar.bz2
 https://conda.anaconda.org/esri/win-64/prometheus_client-0.6.0-py36_0.tar.bz2
@@ -124,6 +129,7 @@ https://repo.anaconda.com/pkgs/main/win-64/pysocks-1.7.0-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/python-3.6.8-h9f7ef89_7.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/python-dateutil-2.8.0-py36_0.tar.bz2
 https://conda.anaconda.org/esri/win-64/pytz-2018.9-py36_0.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/pywavelets-1.0.3-py36h452e1ab_1.tar.bz2
 https://conda.anaconda.org/esri/win-64/pywin32-ctypes-0.2.0-py36he119be9_0.tar.bz2
 https://conda.anaconda.org/esri/win-64/pywinpty-0.5-py36_0.tar.bz2
 https://conda.anaconda.org/conda-forge/win-64/pyyaml-3.13-py36hfa6e2cd_1001.tar.bz2
@@ -135,6 +141,7 @@ https://repo.anaconda.com/pkgs/main/noarch/qtpy-1.7.1-py_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/requests-2.21.0-py36_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/noarch/rope-0.14.0-py_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/rtree-0.8.3-py36_0.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/scikit-image-0.15.0-py36h6538335_0.tar.bz2
 https://repo.continuum.io/pkgs/free/win-64/scipy-0.19.1-np113py36_0.tar.bz2
 https://repo.continuum.io/pkgs/main/win-64/send2trash-1.5.0-py36_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/setuptools-41.0.1-py36_0.tar.bz2
