@@ -4,3 +4,4 @@ data/MIT Cost Surface Duplin Co/*
 OptimizeViewer/ImportLog/*
 OptimizeViewer/Index/*
 OptimizeViewer/OptimizeViewer.gdb
+*.lock
