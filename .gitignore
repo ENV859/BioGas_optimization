@@ -5,3 +5,5 @@ OptimizeViewer/ImportLog/*
 OptimizeViewer/Index/*
 OptimizeViewer/OptimizeViewer.gdb
 *.lock
+data/DuplinStack500m.npy
+OptimizeViewer/.prj
