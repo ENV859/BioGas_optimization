@@ -7,3 +7,4 @@ OptimizeViewer/OptimizeViewer.gdb
 *.lock
 data/DuplinStack500m.npy
 OptimizeViewer/.prj
+data/DuplinStack.npy
