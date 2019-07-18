@@ -8,3 +8,4 @@ OptimizeViewer/OptimizeViewer.gdb
 data/DuplinStack500m.npy
 OptimizeViewer/.prj
 data/DuplinStack.npy
+data/DuplinCostStack.npy
