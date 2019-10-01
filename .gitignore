@@ -4,6 +4,8 @@ data/MIT Cost Surface Duplin Co/*
 OptimizeViewer/ImportLog/*
 OptimizeViewer/Index/*
 OptimizeViewer/OptimizeViewer.gdb
+OptimizeViewer/SingleConnect.gdb
+OptimizeViewer/MultiConnect.gdb
 *.lock
 data/DuplinStack500m.npy
 OptimizeViewer/.prj
