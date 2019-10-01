@@ -1,6 +1,8 @@
 # Work Summary: Devising optimal pipeline networks
 
-Fall 2019<br>John Fay and Lincoln Pratson
+Fall 2019
+
+John Fay and Lincoln Pratson
 
 ### Objectives
 
@@ -29,6 +31,7 @@ $$
 Pipeline\ cost($/mi) = 10829 * diameter(in.) ^{0.4854}
 $$
 
+---
 
 ### Pipeline Results
 
