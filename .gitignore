@@ -9,9 +9,8 @@ OptimizeViewer/MultiConnect.gdb
 *.lock
 data/DuplinStack500m.npy
 OptimizeViewer/.prj
-data/DuplinStack.npy
-data/DuplinCostStack.npy
-data/DuplinTraceStack.npy
+data/*.npy
+data/costsurface500*.*
 data/LCP_Analysis.gdb/*
 data/processed/*
 docs/BiogasUtilization_QuarterlyReport_Y1Q3_Aug2019_v1.docx
