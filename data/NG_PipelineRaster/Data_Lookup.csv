@@ -1,0 +1,30 @@
+STATUS,TYPE,DIAMETER,UNIQIUE_ID,OUT_CODE
+Abandoned,Transmission,0,0,1
+Abandoned,Transmission,4,1,2
+Abandoned,Transmission,6,2,4
+Abandoned,Transmission,8,3,8
+Abandoned,Transmission,10,4,16
+Abandoned,Transmission,12,5,32
+Abandoned,Transmission,16,6,64
+Abandoned,Transmission,24,7,128
+Cancelled Project,Transmission,0,8,256
+Operational,Distribution,0,9,512
+Operational,Distribution,4,10,1024
+Operational,Distribution,6,11,2048
+Operational,Distribution,10,12,4096
+Operational,Distribution,24,13,8192
+Operational,Transmission,0,14,16384
+Operational,Transmission,1,15,32768
+Operational,Transmission,4,16,65536
+Operational,Transmission,6,17,131072
+Operational,Transmission,8,18,262144
+Operational,Transmission,10,19,524288
+Operational,Transmission,12,20,1048576
+Operational,Transmission,16,21,2097152
+Operational,Transmission,20,22,4194304
+Operational,Transmission,24,23,8388608
+Operational,Transmission,30,24,16777216
+Operational,Transmission,36,25,33554432
+Operational,Transmission,42,26,67108864
+Under Development,Transmission,0,27,134217728
+Under Development,Transmission,36,28,268435456
